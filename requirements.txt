@@ -1,6 +1,7 @@
 pandas
 numpy
 folium
+streamlit==1.35.0
 streamlit-folium
 streamlit-aggrid==1.0.5
 streamlit-option-menu
